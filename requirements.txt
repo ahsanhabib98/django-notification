@@ -1,0 +1,7 @@
+Django==1.9
+djangorestframework==3.6.3
+fcm-django==0.2.10
+coreapi==2.3.1
+django-cors-headers==2.1.0
+django-sslserver==0.19
+psycopg2==2.7.5
