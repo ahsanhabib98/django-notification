@@ -1,4 +1,4 @@
-Django==1.9
+Django==2.2.24
 djangorestframework==3.6.3
 fcm-django==0.2.10
 coreapi==2.3.1
